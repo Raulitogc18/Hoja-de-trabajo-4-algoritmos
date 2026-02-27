@@ -1,8 +1,8 @@
-import stack.IStack;
+import java.util.Stack;
 
 public class ExpressionConverter {
 
-    public static String infixToPostfix(String expression, IStack<Character> stack) {
+    public static String infixToPostfix(String expression, Stack<Character> stack) {
         StringBuilder output = new StringBuilder();
 
         for (int i = 0; i < expression.length(); i++) {

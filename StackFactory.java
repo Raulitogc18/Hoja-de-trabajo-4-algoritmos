@@ -1,11 +1,3 @@
-import stack.IStack;
-import stack.StackArrayList;
-import stack.StackVector;
-import stack.StackList;
-
-import list.SinglyLinkedList;
-import list.DoublyLinkedList;
-
 import java.util.Scanner;
 
 public class StackFactory {

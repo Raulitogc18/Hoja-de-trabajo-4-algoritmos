@@ -1,5 +1,6 @@
 import java.io.File;
 import java.util.Scanner;
+import java.util.Stack;
 
 public class Main {
 
@@ -9,7 +10,7 @@ public class Main {
         String expression = fileScanner.nextLine();
         fileScanner.close();
 
-        IStack<Character> stackChar = StackFactory.createStack();
+        Stack<Character> stackChar = new Stack<>();
         String postfix = ExpressionConverter.infixToPostfix(expression, stackChar);
 
         System.out.println("Postfix: " + postfix);
