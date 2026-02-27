@@ -395,3 +395,44 @@ WARNING: Unmatched cancel notification for request id 439
 2026.02.27 08:40:44 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
 2026.02.27 08:40:44 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
 2026.02.27 08:40:46 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:47 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:47 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:50 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:52 WARN  no build target for: C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java
+2026.02.27 08:40:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java:5: error: unmappable character (0x90) for encoding windows-1252
+    public static IStack createStack() {   // â†? quitamos <T>
+                                                ^
+2026.02.27 08:40:52 WARN  Running javac-semanticdb failed for file:///C:/Users/joses/OneDrive/Desktop/estructura%20de%20datos/Hoja%20de%20trabajo%204/Hoja-de-trabajo-4-algoritmos/StackFactory.java. Output:
+
+2026.02.27 08:40:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:52 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:40:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:41:01 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:41:02 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:41:02 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:41:02 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:24 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+Feb 27, 2026 8:53:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.27 08:53:39 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:40 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:41 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:41 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:43 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:43 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:44 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:44 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:46 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:46 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:47 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:47 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:49 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:53 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:58 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
+2026.02.27 08:53:58 INFO  no build target found for C:\Users\joses\OneDrive\Desktop\estructura de datos\Hoja de trabajo 4\Hoja-de-trabajo-4-algoritmos\StackFactory.java. Using fallback presentation compiler.
